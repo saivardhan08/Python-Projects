@@ -8,7 +8,7 @@ This project involves exploring and analyzing Walmart sales data to uncover insi
 ## Dataset Overview
 
 * **Data Source:** https://www.kaggle.com/datasets/mikhail1681/walmart-sales
-* 
+  
 * **File Name:** Walmart_Sales.csv
 
 * **Columns:**
