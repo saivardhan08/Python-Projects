@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/fcc9d6a2-357e-4520-8548-3e532cb36700)
 
 
 # Walmart Sales Data Analysis Project
