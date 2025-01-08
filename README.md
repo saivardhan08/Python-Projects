@@ -1,8 +1,8 @@
-Walmart Sales Data Analysis Project
+## Walmart Sales Data Analysis Project
 
-This project involves exploring and analyzing Walmart sales data to uncover insights and trends. The dataset includes information about weekly sales, holidays, store types, and economic indicators such as temperature, fuel prices, and unemployment rates. Below is a detailed description of the workflow and objectives.
+#### This project involves exploring and analyzing Walmart sales data to uncover insights and trends. The dataset includes information about weekly sales, holidays, store types, and economic indicators such as temperature, fuel prices, and unemployment rates. Below is a detailed description of the workflow and objectives.
 
-Dataset Overview
+### Dataset Overview
 
 File Name: Walmart_Sales.csv
 
@@ -24,7 +24,7 @@ CPI: Consumer Price Index.
 
 Unemployment: Unemployment rate in the region.
 
-Project Objectives
+### Project Objectives
 
 Data Cleaning:
 
@@ -44,13 +44,13 @@ Analyze relationships between sales and economic indicators.
 
 Visualize store-level performance.
 
-Statistical Analysis:
+### Statistical Analysis:
 
 Explore correlations between variables.
 
 Conduct comparisons of sales during holidays and non-holidays.
 
-Visualizations:
+### Visualizations:
 
 Line charts for sales trends.
 
@@ -60,7 +60,7 @@ Heatmaps for correlations.
 
 Bar charts for store-level sales performance.
 
-Workflow
+### Workflow
 
 Data Cleaning:
 
@@ -72,7 +72,7 @@ Replace or remove null values using DataFrame.fillna() or DataFrame.dropna().
 
 Convert Date column to datetime format using pd.to_datetime().
 
-Exploratory Data Analysis:
+### Exploratory Data Analysis:
 
 Calculate total, average, and median weekly sales.
 
@@ -80,7 +80,7 @@ Group and aggregate data by store, holiday flag, or date ranges.
 
 Visualize trends and patterns using Matplotlib and Seaborn.
 
-Insights:
+### Insights:
 
 Determine which stores generate the most revenue.
 
@@ -88,7 +88,7 @@ Assess the influence of holidays on sales.
 
 Analyze how external factors like temperature, fuel price, and unemployment correlate with sales.
 
-Python Tools Used
+### Python Tools Used
 
 Pandas: Data cleaning and manipulation.
 
